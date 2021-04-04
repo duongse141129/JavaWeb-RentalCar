@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/dtos/CartDTO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/utils/DBUtils.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/controllers/SearchController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/daos/CarDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/controllers/AddController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/web/shopping.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/dtos/CarDTO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/controllers/ViewOrderController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/controllers/BillController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Assignment3_dotheduong/src/java/controllers/UpdateBillController.java</file>
+        </group>
+    </open-files>
+</project-private>
